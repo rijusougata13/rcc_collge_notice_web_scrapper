@@ -1,3 +1,15 @@
-this app/programme  extracts notices of the website of the college RCC IIT.This does not work for any other college.this app saves all notices in a csv file.
+# RCC Institute of Information Technology
+## About :
+---
+* This webscraper.py file or the webscraper.exe extracts the notices availavle on the website rcciit.org
+---
 
-on windows-->run the python file and it will genrate a csv file of all notification and save it in current directiory
+## How to use it :
+---
+* Just run the exe file it will autogenarate a csv file containing the notices availavle in rcciit.org website
+---
+
+## Why this? :
+---
+* When you are a student of RCC IIT and  you are too lazy (like me) to open your college notice board to check the notices that time it will help you
+---
